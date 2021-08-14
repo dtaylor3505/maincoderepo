@@ -1,0 +1,15 @@
+GREP
+grep l.rts
+	alerts
+	blurts
+	flirts
+Note:  the . is a wildcard in grep
+
+^ = begins with
+grep ^fruit
+	fruit
+	fruit's
+	fruites
+
+$ = ends with
+
